@@ -1,2 +1,3 @@
-# rpg
-Tabletop role-playing game utilities
+# `rpg`
+
+A collection of tabletop role-playing game utilities.
